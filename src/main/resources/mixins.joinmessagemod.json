@@ -3,8 +3,7 @@
   "package": "net.kingmihailp.joinmessagemod.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "PlayerListMixin",
-    "ServerGamePacketListenerImplMixin"
+    "PlayerListMixin"
   ],
   "injectors": {
     "defaultRequire": 1
